@@ -9,4 +9,5 @@ for(i=1;i<=n;i++)
 fact=fact*1;
 }
 printf("\n fact=%d",fact);
+printf("\n welcome");
 }
